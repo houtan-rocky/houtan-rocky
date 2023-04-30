@@ -1,7 +1,8 @@
-### Houtan Abasi Rocky
+### I am Houtan Abasi Rocky
 * CS Lover
 * Tech Savvy
 * An Evergrowing BEAST
+* JS Developer
 
 <!--
 **mast9rmind/mast9rmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
