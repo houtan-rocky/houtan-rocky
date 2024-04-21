@@ -1,5 +1,5 @@
 ### 🔝 Top Contributed Repo
-![](https://contributa.vercel.app/api?username=houtan-rocky&limit=4&theme=light_dimmed&combine_all_yearly_contributions=true)
+![](https://contributa.vercel.app/api?username=houtan-rocky&limit=4&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=houtan-rocky&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
