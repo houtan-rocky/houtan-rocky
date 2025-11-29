@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Houtan
+#  Hi, I'm Houtan
 
 Welcome to my GitHub! I enjoy building tools that improve productivity, transparency, and user-control — especially around web behavior, automation, and developer experience.
 
@@ -6,7 +6,7 @@ Below are some of my highlighted projects 👇
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🕒 **timer-gamified**
 A gamified timer designed to boost productivity using light psychological reinforcement.  
@@ -20,7 +20,7 @@ Features include:
 
 ---
 
-### 🔐 **killswitchextension**
+### **killswitchextension**
 A Chrome extension that gives you direct control over **which IP addresses are allowed or blocked** when accessing a website.  
 Perfect for:
 - On/off toggling access based on IP  
@@ -31,7 +31,7 @@ Perfect for:
 
 ---
 
-### 📅 **udemy-course-insights**
+### **udemy-course-insights**
 A Chrome extension that reveals the **true creation date** of Udemy courses — not just the “Last updated” timestamp.  
 Useful for:
 - Determining course freshness  
@@ -42,7 +42,7 @@ Useful for:
 
 ---
 
-### 🧩 **react-uniswap**
+### **react-uniswap**
 A plug-and-play **Uniswap widget for React**, making it easy to integrate decentralized swaps into any React project.  
 Key benefits:
 - No permission required  
@@ -54,6 +54,6 @@ Key benefits:
 
 ---
 
-## 📫 Contact
+## Contact
 Feel free to reach out or open an issue in any repo — I’m always open to collaboration or feedback!
 
