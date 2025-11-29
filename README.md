@@ -2,8 +2,6 @@
 
 Welcome to my GitHub! I enjoy building tools that improve productivity, transparency, and user-control — especially around web behavior, automation, and developer experience.
 
-Below are some of my highlighted projects 👇
-
 ---
 
 ##  Projects
