@@ -4,51 +4,21 @@ Welcome to my GitHub! I enjoy building tools that improve productivity, transpar
 
 ---
 
-##  Projects
+### timer-gamified
+Gamified productivity timer with win/lose tracking and psychological boosts.  
+🔗 `timer-gamified`
 
-### **timer-gamified**
-A gamified timer designed to boost productivity using light psychological reinforcement.  
-Features include:
-- Win/Lose tracking  
-- Reward-based psychological nudges  
-- Minimal yet motivating UI  
-- Built for habits, focus sessions, and challenge-based workflows  
+### killswitchextension
+Chrome extension to allow or block specific IPs per website.  
+🔗 `killswitchextension`
 
-🔗 **Repo:** `timer-gamified`
+### udemy-course-insights
+Chrome extension showing the real creation date of Udemy courses.  
+🔗 `udemy-course-insights`
 
----
-
-### **killswitchextension**
-A Chrome extension that gives you direct control over **which IP addresses are allowed or blocked** when accessing a website.  
-Perfect for:
-- On/off toggling access based on IP  
-- Productivity (block distracting sites from certain networks)  
-- Security testing or environment-based restrictions  
-
-🔗 **Repo:** `killswitchextension`
-
----
-
-### **udemy-course-insights**
-A Chrome extension that reveals the **true creation date** of Udemy courses — not just the “Last updated” timestamp.  
-Useful for:
-- Determining course freshness  
-- Avoiding repackaged/older content  
-- Making better enrollment decisions  
-
-🔗 **Repo:** `udemy-course-insights`
-
----
-
-### **react-uniswap**
-A plug-and-play **Uniswap widget for React**, making it easy to integrate decentralized swaps into any React project.  
-Key benefits:
-- No permission required  
-- No listing requirements  
-- Access any liquidity available on Uniswap  
-- Simple, friendly API for developers  
-
-🔗 **Repo:** `react-uniswap`
+### react-uniswap
+React Uniswap widget for permissionless access to any Uniswap liquidity.  
+🔗 `react-uniswap`
 
 ---
 
