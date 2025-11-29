@@ -8,7 +8,7 @@ Below are some of my highlighted projects 👇
 
 ##  Projects
 
-### 🕒 **timer-gamified**
+### **timer-gamified**
 A gamified timer designed to boost productivity using light psychological reinforcement.  
 Features include:
 - Win/Lose tracking  
