@@ -4,6 +4,8 @@ Welcome to my GitHub profile. I build tools focused on productivity, transparenc
 
 ---
 
+## Projects
+
 ### timer-gamified
 A gamified productivity timer featuring win/lose tracking and psychological reinforcement.
 
