@@ -1,6 +1,6 @@
 # Hi, I'm Houtan
 
-Welcome to my GitHub profile. I build tools focused on productivity, transparency, and user control — with a particular interest in web behavior, automation, and developer experience.
+Welcome to my GitHub profile. I build tools focused on productivity, transparency, and user control with a particular interest in web behavior, automation, and developer experience.
 
 ---
 
