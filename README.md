@@ -21,4 +21,4 @@ A React-ready Uniswap widget providing permissionless access to any available li
 ---
 
 ## Contact
-Feel free to reach out or open an issue on any repository — I’m always open to collaboration and feedback.
+Feel free to reach out or open an issue on any repository I’m always open to collaboration and feedback.
