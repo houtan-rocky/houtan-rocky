@@ -1,24 +1,46 @@
-# Hi, I'm Houtan
+# Houtan Rocky
 
-Welcome to my GitHub profile. I build tools focused on productivity, transparency, and user control with a particular interest in web behavior, automation, and developer experience.
 
----
 
 ## Projects
 
-### timer-gamified
-A gamified productivity timer featuring win/lose tracking and psychological reinforcement.
+### Frontend (UI)
+**Iranian Banks React Icons**  
+React package providing SVG icons for Iranian banks.  
+[GitHub](https://github.com/houtan-rocky/iranian-banks-react-icons)  
+[NPM](https://www.npmjs.com/package/@houtan-rocky/iranian-banks-react-icons)
 
-### killswitchextension
-A Chrome extension that enables IP-based access control for any website.
+---
 
-### udemy-course-insights
-A Chrome extension that reveals the original creation date of Udemy courses.
+### DApps & Blockchain
+**react-uniswap**  
+React-ready Uniswap widget enabling permissionless liquidity interactions.  
+[GitHub](https://github.com/houtan-rocky/react-uniswap)  
+[NPM](https://www.npmjs.com/package/react-uniswap)
 
-### react-uniswap
-A React-ready Uniswap widget providing permissionless access to any available liquidity.
+---
+
+### Chrome Extensions
+**Kill Switch Extension**  
+IP-based access control for any website.  
+[Github](https://github.com/houtan-rocky/killswitchextension)  
+[Chrome Web Store](https://chromewebstore.google.com/detail/kill-switch-extension/nnnfldbklgnohjccmcgehkdknhnpijjd)
+
+**Udemy Course Insights**  
+Displays original creation date of Udemy courses.  
+[Github](https://github.com/houtan-rocky/chrome-extenstion-udemy-helper)  
+[Chrome Web Store](https://chromewebstore.google.com/detail/udemy-course-insights/ndcegcfnihfkgknkbhhckenmfdbpfiod)
+
+---
+
+### Desktop Applications
+**Timer Gamified**  
+Gamified productivity timer with win/lose metrics and psychological reinforcement.  
+[GitHub](https://github.com/houtan-rocky/timer-gamified)
 
 ---
 
 ## Contact
-Feel free to reach out or open an issue on any repository I’m always open to collaboration and feedback.
+Email: houtan@gmail.com  
+LinkedIn: [https://www.linkedin.com/in/houtan-rocky/](https://www.linkedin.com/in/houtan-rocky/)  
+Phone: +989120392683
