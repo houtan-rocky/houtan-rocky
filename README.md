@@ -43,4 +43,3 @@ Gamified productivity timer with win/lose metrics and psychological reinforcemen
 ## Contact
 Email: houtan.rocky@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/houtan-rocky/](https://www.linkedin.com/in/houtan-rocky/)  
-Phone: +989120392683
